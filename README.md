@@ -1,3 +1,6 @@
+#该项目清理历史提交 已转移至新项目help_note
+
+
 ## 记事本
 notepad++ c语言显示 ./正则加粗 //注释变色 1.序号变色 #号变色
 retext   md格式    见markdown.md介绍使用方式
